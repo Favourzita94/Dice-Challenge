@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(124, 112, 112);
+    font-size: 22px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    width: 250px;
+    height: 250px;
+}
+.myHeader{
+    text-align: center;
+    color: rgb(173, 47, 47);
+    font-size: 3em;
+}
+p{
+    text-align: center;
+    color: rgb(194, 52, 52);
+    font-size: 1.5em;
+}
+.dice2{
+    margin-left: 50px;
+}
+.dice1{
+    margin-right: 30px;
+}
+.link{
+    text-align: center;
+    font-size: 1.1em;
+}
